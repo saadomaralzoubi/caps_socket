@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^6.0.0",
+    "D": "^1.0.0",
+    "jest": "^27.5.1",
+    "socket.io": "^4.4.1"
+  },
+  "name": "caps_socket",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saadomaralzoubi/caps_socket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saadomaralzoubi/caps_socket/issues"
+  },
+  "homepage": "https://github.com/saadomaralzoubi/caps_socket#readme"
+}
